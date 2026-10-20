@@ -1,0 +1,29 @@
+[
+ {
+  "tag": "numpy_for_3d",
+  "engine": "numpy",
+  "threads": null,
+  "n_rails": 750,
+  "n_segments": 93000,
+  "time": "2026-10-17 15:41:49",
+  "affinity": [
+   0,
+   1
+  ],
+  "seconds_screen": [
+   3.476743389999683
+  ],
+  "n_mortal": 38,
+  "n_segments_mortal": 4712,
+  "seconds_setup": 0.0021331950001695077,
+  "seconds_warmup": 0.5027637459998004,
+  "seconds_closure": [
+   28.62612908600022
+  ],
+  "seconds_reference": {
+   "2": 3.624752938000256
+  },
+  "tnuc_rel_median": 0.01431630554882788,
+  "tnuc_rel_max": 0.026226803398609416
+ }
+]
